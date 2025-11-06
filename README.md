@@ -1,4 +1,4 @@
-# 🎨 Term Art Poet 📜
+# Term Art Poet
 
 _A creative terminal app that blends ASCII art with haiku poetry._
 
@@ -9,7 +9,7 @@ _A creative terminal app that blends ASCII art with haiku poetry._
 
 ---
 
-## 🌈 Overview
+## Overview
 
 **Term Art Poet** is a creative coding experiment that generates  
 beautiful **ASCII patterns and haiku poems** directly inside your terminal.  
@@ -17,14 +17,14 @@ Every result is unique — determined entirely by your input **seed word**.
 
 Built with:
 
-- 🧩 **TypeScript** for strong typing
-- ⚛️ **React Ink** for elegant CLI rendering
-- 🎨 **Chalk** for colorized ASCII art
-- ⚙️ **Yargs** for command-line arguments
+- **TypeScript** for strong typing
+- **React Ink** for elegant CLI rendering
+- **Chalk** for colorized ASCII art
+- **Yargs** for command-line arguments
 
 ---
 
-## 🚀 Demo
+## Demo
 
 ```bash
 npm run start -- --seed ocean
